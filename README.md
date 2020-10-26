@@ -1,7 +1,7 @@
 # cycles
 cycles was created and distributed to public health youth outreach programs, county health departments, and other services focusing on at-risk youth.  Its intention was to package history, facts, health education, and resources for young adults who have not had access to a comprehensive, factual health education. In many states in America, it is mandated health classes not teach factual health information and human biology.  It is also easy to find current, contemporary lawmakers spreading inaccurate and dangerously ignorant concepts on anatomy and biology.  
 
-This project predicted the continuous dismantling of equal access to health services, emphasised the continuous fight for equality and warned of the dangers of legislating away all progress made in the past 40 years.
+This project predicted the continuous dismantling of equal access to health services, emphasised the continuous fight for equality and warned of the dangers of legislating away all progress made in the past 40 years, much of which is the legacy of Ruth Bader Ginsberg.
 
 ## women's history quiz
 
